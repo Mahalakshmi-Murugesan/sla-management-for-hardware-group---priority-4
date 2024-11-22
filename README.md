@@ -1,9 +1,9 @@
 Project Title: SLA Management for Hardware Group - Priority 4
 
-Team Leader  : Mahalakshmi M (2B3C411AE481C95A992445A78562B8CF)
-Team Members : Dhanushya M (6CB43950D4E10239EE143742F827599A)
-               Karunya L S (7A66051CEE6D5CBB3F04ABCF5BDAE117)
-               Gowsalya G (7D41E76E9CE5416A63D4D686FAB4711F)
+Team Leader  :    Mahalakshmi M (2B3C411AE481C95A992445A78562B8CF)
+Team Members : 1. Dhanushya M (6CB43950D4E10239EE143742F827599A)
+               2. Karunya L S (7A66051CEE6D5CBB3F04ABCF5BDAE117)
+               3. Gowsalya G (7D41E76E9CE5416A63D4D686FAB4711F)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
               ** PROJECT OVERVIEW**
               SLA Management for Hardware Group - Priority
